@@ -1,1 +1,1 @@
-# project2
+Simple dynamic TO-DO-List web application
